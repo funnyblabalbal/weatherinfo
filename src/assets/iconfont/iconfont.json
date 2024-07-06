@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1302",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "f0175",
+      "unicode_decimal": 983413
+    },
+    {
+      "icon_id": "641271",
+      "name": "版本信息提示",
+      "font_class": "banbenxinxifuxy20160326",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "21123125",
+      "name": "sun",
+      "font_class": "sun",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
